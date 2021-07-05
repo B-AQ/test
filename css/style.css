@@ -1,0 +1,13 @@
+
+
+/* #1F1F1F
+#f5f5f5
+# rgba(114, 104, 211, 0.8)
+#3D3D3D; */
+
+body{
+    font-family: 'Noto Sans', sans-serif;
+    background-image: url("../img/school.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
